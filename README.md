@@ -1,5 +1,5 @@
 # Techworld-1
-The UI/UX project was completed by the talented designers Ms.Ohood Saleh, Ms.Norah Mohammed , Ms.Rahaf, for Brmjha Company.
+The UI/UX project was completed by the talented designers Ms.Ohood Saleh, Ms.Norah Mohammed , Ms.Rahaf Faiz, for Brmjha Company.
 ## What is the Idea?
 A technical forum web for the technical world, to exchange information about their specializations and interests and share opinions with each other
 ## Let's watch this video that demonstrates the workflow of the website!
